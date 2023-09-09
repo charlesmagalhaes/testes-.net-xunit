@@ -45,11 +45,3 @@ Certifique-se de ter o ambiente de desenvolvimento C# configurado corretamente.
 
 Contribuições são bem-vindas via pull requests.
 
-## Licença
-
-Sob licença [MIT](LICENSE.md).
-
-## Autor
-
-Desenvolvido por [Seu Nome].
-
